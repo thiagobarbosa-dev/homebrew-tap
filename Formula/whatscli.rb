@@ -1,8 +1,8 @@
 class Whatscli < Formula
   desc "WhatsApp Web CLI powered by Baileys"
   homepage "https://github.com/thiagobarbosa-dev/whatscli"
-  url "https://github.com/thiagobarbosa-dev/whatscli/archive/refs/tags/v0.8.2.tar.gz"
-  sha256 "08bb438cb29c3392aee5a9d582f598faba18e476dd74cdaf312f1dcc06ee28f4"
+  url "https://github.com/thiagobarbosa-dev/whatscli/archive/refs/tags/v0.8.3.tar.gz"
+  sha256 "d1cfe267b9bfdb7faa3640519e15b86d736a12df4c77e7ac3b6d809d27d14a9f"
   license "MIT"
 
   depends_on "node"
