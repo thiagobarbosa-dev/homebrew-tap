@@ -57,7 +57,3 @@ brew doctor
 ```
 
 For specific issues related to the tools, please open an issue in the respective tool's repository.
-
-## 📄 License
-
-This tap and its formulas are released under the [MIT License](LICENSE).
